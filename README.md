@@ -1,7 +1,3 @@
-Certainly, here's a professional README file that summarizes the context and information about the dataset you provided:
-
----
-
 # Diabetes Prediction Dataset
 
 ## Table of Contents
